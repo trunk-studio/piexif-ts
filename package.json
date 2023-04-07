@@ -3,8 +3,6 @@
   "version": "2.0.16",
   "description": "Read and write exif with typescript!",
   "main": "dist/piexif.js",
-  "module": "dist/piexif.es.js",
-  "browser": "dist/piexif.browser.js",
   "types": "dist/index.d.ts",
   "files": [
     "dist/piexif.js",
