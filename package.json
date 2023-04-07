@@ -1,6 +1,6 @@
 {
-  "name": "piexif-ts",
-  "version": "2.0.16",
+  "name": "react-native-piexif-ts",
+  "version": "2.1.16",
   "description": "Read and write exif with typescript!",
   "main": "dist/piexif.js",
   "types": "dist/index.d.ts",
@@ -14,7 +14,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/holwech/piexif-ts.git"
+    "url": "https://github.com/trunk-studio/react-native-piexif-ts"
   },
   "keywords": [
     "jpeg",
@@ -39,9 +39,9 @@
   "author": "hMatoba, Joachim Holwech",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/holwech/piexif-ts/issues"
+    "url": "https://github.com/trunk-studio/react-native-piexif-ts/issues"
   },
-  "homepage": "https://github.com/holwech/piexif-ts",
+  "homepage": "https://github.com/trunk-studio/react-native-piexif-ts",
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^2.4.0",
     "@typescript-eslint/parser": "^2.4.0",

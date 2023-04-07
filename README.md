@@ -1,4 +1,4 @@
-Piexif-ts
+react-native-piexif-ts
 ========
 
 [![Actions Status](https://github.com/{holwech}/{piexif-ts}/workflows/{main.yml}/badge.svg)](https://github.com/{holwech}/{piexif-ts}/actions)
